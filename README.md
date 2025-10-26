@@ -390,8 +390,8 @@ curl -X POST http://localhost:8080/api/appointments \
   -H "Content-Type: application/json" \
   -d '{
     "date": "2025-12-01T10:00:00",
-    "doctorName": "Dr. Smith",
-    "patientName": "John Doe",
+    "doctorName": "Dr. Serge",
+    "patientName": "Josiane",
     "status": "SCHEDULED"
   }'
 ```
