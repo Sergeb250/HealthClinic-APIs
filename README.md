@@ -448,6 +448,6 @@ This project is for educational purposes.
 
 ---
 
-## 👥 Contributors
+
 
 Built with Spring Boot, JPA, Lombok, and MySQL/PostgreSQL.
